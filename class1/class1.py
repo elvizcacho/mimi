@@ -19,7 +19,8 @@ else:
 print("4")
 
 
-# Take a ADN chain of 10 nucleotidos and count how many nucleotidos are in total and how many of each.
+
+# Take a ADN chain from (# https://www.bioinformatics.org/sms2/random_dna.html) of 10 nucleotidos and count how many nucleotidos are in total and how many of each.
 # e.g. "gacctctatt"
 # If this ADN chain is given the program has to print:
 # Total number of nucleotidos: 10
