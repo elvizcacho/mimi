@@ -1,10 +1,11 @@
-# I wen to Bioinformatic i choose this sequence homework: agttagagcg
+# I went to Bioinformatic i choose this sequence homework: agttagagcg
 sequence=[]
 varA= 0
 varG= 0
 varT= 0
 varC= 0
 print(len(sequence))
+
 if len(sequence) >=1:
     if sequence[0] == "a":
         varA=varA+1
